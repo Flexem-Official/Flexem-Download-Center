@@ -1,6 +1,6 @@
 # Flexem Official Download Center
 
-Welcome to the official software repository for **Shanghai Flexem Technology Co., Ltd. (FLEXEM)**.  
+Welcome to the official software repository for **Flexem Technology Co., Ltd. (FLEXEM)**.  
 This center provides the latest configuration software, drivers, and technical resources for our HMI and PLC products.
 
 ## 📥 Software Downloads (Latest Release)
@@ -36,4 +36,4 @@ This center provides the latest configuration software, drivers, and technical r
 - **Official Website:** [www.flexem.com](http://www.flexem.com)
 - **Marketing Inquiry:** marketing@flexem.com
 
-© 2026 Shanghai Flexem Technology Co., Ltd. All rights reserved.
+© 2026 Flexem Technology Co., Ltd. All rights reserved.
