@@ -44,6 +44,6 @@ This center provides the latest configuration software, drivers, and technical r
 ## 🌐 Official Channels
 - **Official Website:** [www.flexem.com](http://www.flexem.com)
 - **Marketing Inquiry:** marketing@flexem.com
-- **Technical Support:** support@flexem.com
+- **Technical Support:** techsupport@flexem.com
 
 © 2026 Flexem Technology Co., Ltd. All rights reserved.
